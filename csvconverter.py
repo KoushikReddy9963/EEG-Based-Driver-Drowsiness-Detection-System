@@ -1,7 +1,7 @@
 from scipy.io import loadmat
 import pandas as pd
 
-data = loadmat(r"C:\BCI\EEG-based-Cross-Subject-Driver-Drowsiness-Recognition-with-an-Interpretable-CNN-main\dataset.mat")
+data = loadmat(r"C:\BCI\Driver-Drowsiness-Recognition\dataset.mat")
 
 data = {k: v for k, v in data.items() if not k.startswith('_')}
 
