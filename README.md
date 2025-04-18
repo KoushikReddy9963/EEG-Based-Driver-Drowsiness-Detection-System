@@ -68,14 +68,11 @@ python visualization.py
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### Figure 1: Workflow of the EEG-Based Driver Drowsiness Detection System
 
-> *(Add image here if available)*  
-```markdown
-![Workflow](Screenshots/workflow.png)
-```
+![Workflow](https://github.com/KoushikReddy9963/EEG-Based-Driver-Drowsiness-Detection-System/blob/main/Screenshot/workflow.jpg)
 
 ---
 
