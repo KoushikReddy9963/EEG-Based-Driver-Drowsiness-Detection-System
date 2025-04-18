@@ -36,6 +36,12 @@ pip install -r requirements.txt
 
 ---
 
+## Workflow
+
+![Workflow](https://github.com/KoushikReddy9963/EEG-Based-Driver-Drowsiness-Detection-System/blob/main/Screenshot/workflow.jpg)
+
+---
+
 ## 📊 Usage
 
 ### 🧠 Training the Model:
@@ -65,14 +71,6 @@ python visualization.py
 - **Insights**:
   - Identifies **drowsiness-related features** (theta bursts, alpha spindles)
   - Detects **alertness-related artifacts** (beta waves, eye movements)
-
----
-
-## Screenshots
-
-### Figure 1: Workflow of the EEG-Based Driver Drowsiness Detection System
-
-![Workflow](https://github.com/KoushikReddy9963/EEG-Based-Driver-Drowsiness-Detection-System/blob/main/Screenshot/workflow.jpg)
 
 ---
 
